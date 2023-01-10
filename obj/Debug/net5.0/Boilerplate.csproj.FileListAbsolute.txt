@@ -1,0 +1,112 @@
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/Boilerplate.deps.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/Boilerplate.runtimeconfig.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/Boilerplate.runtimeconfig.dev.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/ref/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/Boilerplate.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/Boilerplate.Views.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/bin/Debug/net5.0/Boilerplate.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.csprojAssemblyReference.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.AssemblyInfoInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.AssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.RazorAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.RazorAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/staticwebassets/Boilerplate.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/staticwebassets/Boilerplate.StaticWebAssets.xml
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/scopedcss/bundle/Boilerplate.styles.css
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.TagHelpers.input.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.TagHelpers.output.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.RazorCoreGenerate.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/ref/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.genruntimeconfig.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit01/1-2/Boilerplate/obj/Debug/net5.0/Boilerplate.csproj.CopyComplete
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/Boilerplate.deps.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/Boilerplate.runtimeconfig.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/Boilerplate.runtimeconfig.dev.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/ref/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/Boilerplate.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/Boilerplate.Views.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/bin/Debug/net5.0/Boilerplate.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.csprojAssemblyReference.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.AssemblyInfoInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.AssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.RazorAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.RazorAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/staticwebassets/Boilerplate.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/staticwebassets/Boilerplate.StaticWebAssets.xml
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/scopedcss/bundle/Boilerplate.styles.css
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.TagHelpers.input.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.TagHelpers.output.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.RazorCoreGenerate.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/ref/Boilerplate.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.genruntimeconfig.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/Boilerplate-with-MySQL/obj/Debug/net5.0/Boilerplate.csproj.CopyComplete
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\appsettings.Development.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\appsettings.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.StaticWebAssets.xml
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.exe
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.deps.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.runtimeconfig.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.runtimeconfig.dev.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.pdb
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.Views.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net5.0\Boilerplate.Views.pdb
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.csproj.AssemblyReference.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.AssemblyInfoInputs.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.AssemblyInfo.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.csproj.CoreCompileInputs.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.RazorAssemblyInfo.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.RazorAssemblyInfo.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\scopedcss\bundle\Boilerplate.styles.css
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\staticwebassets\Boilerplate.StaticWebAssets.Manifest.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.TagHelpers.input.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.TagHelpers.output.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.RazorCoreGenerate.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.RazorTargetAssemblyInfo.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.RazorTargetAssemblyInfo.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.Views.pdb
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\refint\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.pdb
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.genruntimeconfig.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\ref\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net5.0\Boilerplate.csproj.CopyComplete

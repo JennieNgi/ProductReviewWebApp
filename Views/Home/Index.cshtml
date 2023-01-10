@@ -1,0 +1,179 @@
+﻿@model MyModel
+
+<h1 class="mb-3">Hongkonger – HOODIE JACKET</h1>
+
+<div class="mb-3">
+    @* Images in Bootstrap are made responsive with .img-fluid. max-width: 100%; and height: auto; are applied to the image so that it scales with the parent element. *@
+    <img src="~/images/hkerhoodie.jpg" alt="responsive image" class="img-fluid">
+</div>
+
+<div class="text-primary mb-3">
+    Be cool and original with this cool Hong Kong Hoodie, of the best Cotton, which you can buy from $C54.00 in your favorite color and with 100s of great Hong Kong designs and have it in your hands very fast, thanks to our instant dispatch. Besides, you can pesonalize your Hoodie according to your own mind and preferences. 
+</div>
+
+<div class="row">
+    <div class="col well">
+        <input type="checkbox" id="showAdd">&nbsp Post a review!
+
+        @*.d-none hide the form when initialiting the app *@
+        <form method="post" id="addForm" class="d-none">
+            <div>Enter your review below and press ok when complete...</div>
+            <br/>
+            <br/>
+            <h3>Add New Review:</h3>
+
+            <div class="form-group">
+                <label for="txtRating">Rating:</label>
+                <div class="text-secondary">
+                    <i class="fa fa-star setStar" data-index="1"></i>
+                    <i class="fa fa-star setStar" data-index="2"></i>
+                    <i class="fa fa-star setStar" data-index="3"></i>
+                    <i class="fa fa-star setStar" data-index="4"></i>
+                    <i class="fa fa-star setStar" data-index="5"></i>
+                </div>
+                @* store the rating record in a hidden input *@
+                <input id="txtRating" name="rating" maxlength="1" type="hidden" class="form-control" value="@Model.rating"/>
+            </div>
+            <div class="form-group">
+                <label for="txtFirstName">First Name:</label>
+                <textarea id="txtFirstName" name="firstName" maxlength="100" class="form-control" rows="5" columns="50"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="txtLastName">Last Name:</label>
+                <input id="txtLastName" name="lastName" type="text" maxlength="100" class="form-control" columns="3" />
+            </div>
+            <div class="form-group">
+                <label for="txtComment">Comment: (Required)</label>
+                <textarea id="txtComment" name="comment" maxlength="500" class="form-control" rows="5" columns="50"></textarea>
+                <span id="characters"></span> characters left
+            </div>
+
+            <div class="form-group">
+                <button asp-controller="Home" asp-action="Add" type="submit" class="btn btn-success">Add Review</button>
+            </div>
+        </form>
+
+
+        @if (Model.reviewDetails.Count == 0){
+            <div></div>
+        } else {
+
+            <br/>
+            <br/>
+            // read the data from the latest comment using reverse for loop
+            for (int i = Model.reviewDetails.Count - 1; i >= 0; i--) {
+                <div class="border-top border-warning"></div>
+
+                <br/>
+                
+                <h4>Author</h4>
+                <div>@Model.reviewDetails[i].firstName <span>@Model.reviewDetails[i].lastName</span></div>
+                <br/>
+
+                <h4>Rating</h4>
+                <div class="text-warning bg-white">
+                    @* if no rating was given, show nothing *@
+                    @if (Model.reviewDetails[i].rating == 0){
+                        @* Console.WriteLine("no star"); *@
+                        <div class="text-secondary">
+                            <i class="fa fa-star" data-index="1"></i>
+                            <i class="fa fa-star" data-index="2"></i>
+                            <i class="fa fa-star" data-index="3"></i>
+                            <i class="fa fa-star" data-index="4"></i>
+                            <i class="fa fa-star" data-index="5"></i>
+                        </div>
+                    } else {
+                    @* generate the number the rating star based on the database record *@
+                        @for (int n=0; n < Model.reviewDetails[i].rating; n++){
+                            <i class="fa fa-star reviewStar" data-index="@n"></i>
+                        }
+                        <span class="text-secondary">
+                        @for (int n=0; n < 5 - Model.reviewDetails[i].rating; n++){
+                            <i class="fa fa-star" data-index="@n"></i>
+                        }
+                        </span>
+
+                    }
+                </div>
+                <br/>
+                
+                <h4>Comment</h4>
+                <div>@Model.reviewDetails[i].comment</div>
+                <br/>
+
+                <h4>Date</h4>
+                <div>@Model.reviewDetails[i].date</div>
+
+                <br/>
+
+                <a href="#" class="badge badge-info"><button class="btn btn-info">Back to Top</button></a>
+
+                <br/>
+                <br/>
+                
+
+            }
+        }
+    </div>
+</div>
+
+
+@section scripts {
+    <script> 
+        // ---------------------------------------------- Comment Character Count
+        $('textarea[name="comment"]').on('keyup keydown', updateCount);
+
+        function updateCount() {
+        var wordInput = $(this).val().length;
+        var wordsleft = 500 - wordInput;
+        $('#characters').text(wordsleft);
+        }
+
+        // ---------------------------------------------- Show or hide the Form
+       $('#showAdd').change(function() {
+            if (document.getElementById('showAdd').checked == true){
+                $("#addForm").removeClass("d-none");
+                console.log("checked");
+            } else {
+                $("#addForm").addClass("d-none");
+                console.log("not checked");
+            }
+        });
+
+        // ---------------------------------------------- Star Rating
+        var ratedIndex = 0;
+
+        $(document).ready(function () {
+            resetStarColors();
+
+            $('.setStar').on('click', function () {
+               ratedIndex = parseInt($(this).data('index'));
+               // set the rating to whatever teh user click
+               document.getElementById('txtRating').value = ratedIndex;
+               console.log(ratedIndex);
+            });
+
+            $('.setStar').mouseover(function () {
+                resetStarColors();
+                var currentIndex = parseInt($(this).data('index'));
+                setStars(currentIndex);
+            });
+
+            $('.setStar').mouseleave(function () {
+                resetStarColors();
+
+                if (ratedIndex != -1)
+                    setStars(ratedIndex);
+            });
+        });
+
+        function setStars(max) {
+            for (var i=0; i < max; i++)
+                $('.setStar:eq('+i+')').css('color', 'gold');
+        }
+
+        function resetStarColors() {
+            $('.setStar').css('color', '#808080');
+        }
+   </script>
+}

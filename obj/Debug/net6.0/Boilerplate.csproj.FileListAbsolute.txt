@@ -1,0 +1,88 @@
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\appsettings.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Boilerplate.staticwebassets.runtime.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Boilerplate.exe
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Boilerplate.deps.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Boilerplate.runtimeconfig.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Boilerplate.pdb
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.csproj.AssemblyReference.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.AssemblyInfoInputs.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.AssemblyInfo.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.csproj.CoreCompileInputs.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.RazorAssemblyInfo.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.RazorAssemblyInfo.cs
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\scopedcss\bundle\Boilerplate.styles.css
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\refint\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.pdb
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.genruntimeconfig.cache
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\ref\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\MySql.Data.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\Zstandard.Net.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Workspace\INET 2005 Web Application Programming\INET2005-Boilerplate-with-MySQL\obj\Debug\net6.0\Boilerplate.csproj.CopyComplete
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\appsettings.json
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Boilerplate.staticwebassets.runtime.json
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Boilerplate.exe
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Boilerplate.deps.json
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Boilerplate.runtimeconfig.json
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Boilerplate.pdb
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\MySql.Data.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\Zstandard.Net.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.csproj.AssemblyReference.cache
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.AssemblyInfoInputs.cache
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.AssemblyInfo.cs
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.csproj.CoreCompileInputs.cache
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.RazorAssemblyInfo.cache
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.RazorAssemblyInfo.cs
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\scopedcss\bundle\Boilerplate.styles.css
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.csproj.CopyComplete
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\refint\Boilerplate.dll
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.pdb
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\Boilerplate.genruntimeconfig.cache
+C:\Workspace\INET 2005 Web Application Programming\Project I\obj\Debug\net6.0\ref\Boilerplate.dll

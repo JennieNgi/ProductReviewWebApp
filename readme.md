@@ -1,6 +1,20 @@
 # Product Review Web App
 This is a simple web application that allows users to review a product by providing a star rating and a comment. The application displays a single photo of the product and a list of all previous reviews, sorted by the most recent at the top.
 
+## Installation
+To get started with the Quote Generator, you'll need to do the following:
+- Clone the repository
+- cd to the project folder
+- run 
+```sh
+docker-compose run
+```
+- open another termimal and run
+```sh
+dotnet run start
+```
+This will start both the Product Review Web App in your browser.
+
 ## Usage
 When you open the web app, you will see a single photo of the product and a list of all previous reviews, if any. To add a new review, click on the "Add a review" checkbox and fill in the form with your rating, first name, last name, and comment. The rating can be set by clicking on the star icons to select the desired rating. The character count for the comment will be displayed below the text area. When you submit the form, the new review will be added to the list, and the form will be hidden.
 
